@@ -23,8 +23,9 @@
 }
 
 .header{
-    min-height: 100vh;
+    // min-height: 100vh;
     background: rgba(0,0,0,0.1) url(../assets/header-image.png) no-repeat left top;
+    padding-bottom: 50px;
     @media screen and (max-width:991px){
         .top{
             display: grid;
